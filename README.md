@@ -18,4 +18,4 @@ By the end, you’ll understand how to design a **scalable, secure, and producti
 
 > 🧠 **Keywords:** Spring Boot multitenancy, PostgreSQL multi-tenant, SaaS architecture, tenant database isolation, dynamic datasource, Spring Boot PostgreSQL example
 
-[Read the full article on Medium »](https://medium.com/@sachinverma_78701/mutation-testing-in-spring-boot-using-pitest-framework-d8a72413b5c0)
+[Read the full article on Medium »](https://medium.com/@sachinverma_78701/building-a-multi-tenant-application-with-spring-boot-and-postgresql-a-step-by-step-guide-231e04213604)
